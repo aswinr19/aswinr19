@@ -1,8 +1,7 @@
-### Hi there 👋 
+### <img width="25px" src="/img/hand.gif" /> Hi there , I'm Aswin R
 
 
 
-![snake gif](https://github.com/aswinr19/aswinr19/blob/output/github-contribution-grid-snake.svg)
 <!--
 **aswinr19/aswinr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
