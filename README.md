@@ -1,4 +1,4 @@
-### <img width="25px" src="/img/hand.gif" /> Hi there , I'm Aswin R
+### Hei <img width="25px" src="/img/hand.gif" /> 
 
 - 🏡 I live in Kerala and i'm computer science student.
 - 🌱 I’m currently learning vue.js.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![snake gif](https://github.com/aswinr19/aswinr19/blob/output/github-contribution-grid-snake.svg)
+
+-->
