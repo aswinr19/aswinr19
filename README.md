@@ -1,8 +1,7 @@
 ### Hei <img width="25px" src="/img/hand.gif" /> 
 
 - 🏡 I live in Kerala and i'm computer science student.
-- 🌱 I’m currently learning vue.js.
-- 📬 Reach me on twitter : https://twitter.com/aswinr019 
+
 
 <!--
 **aswinr19/aswinr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
 ![snake gif](https://github.com/aswinr19/aswinr19/blob/output/github-contribution-grid-snake.svg)
 
--->
+
