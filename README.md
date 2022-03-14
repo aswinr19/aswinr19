@@ -1,7 +1,6 @@
 ### <img width="25px" src="/img/hand.gif" /> Hi there , I'm Aswin R
 
 - 🏡 I live in Kerala and i'm computer science student.
-- 🔭 I’m currently working on a laravel project.
 - 🌱 I’m currently learning vue.js.
 - 📬 Reach me on twitter : https://twitter.com/aswinr019 
 
