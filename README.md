@@ -1,7 +1,5 @@
 ### Hi there <img width="25px" src="/img/hand.gif" /> 
 
-
-Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
@@ -11,7 +9,9 @@ Here are some ideas to get you started:
 -->
 - 🤔 I’m looking for help with ... Laravel
 - 💬 Ask me about ... Anything
+<!--
 - 📫 How to reach me: ...
+-->
 - 😄 Pronouns: ... He/Him
 <!--
 - ⚡ Fun fact: ....
