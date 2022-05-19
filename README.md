@@ -1,7 +1,7 @@
 ### Hi there, I'm Aswin <img width="25px" src="/img/hand.gif" /> 
 
 
-- 🌱 I’m currently learning ... Vue.js
+- 🌱 I’m currently learning ... Vue.js , Node js
 - 🤔 I’m looking for help with ... Laravel
 - 💬 Ask me about ... Anything
 - 😄 Pronouns ... He/Him
