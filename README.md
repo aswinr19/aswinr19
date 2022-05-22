@@ -10,8 +10,9 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ....
-![snake gif](https://github.com/aswinr19/aswinr19/blob/output/github-contribution-grid-snake.svg)
+
 -->
 
 
 
+![snake gif](https://github.com/aswinr19/aswinr19/blob/output/github-contribution-grid-snake.svg)
