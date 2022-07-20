@@ -1,4 +1,4 @@
-### Hi there, I'm Aswin <img width="15px" src="/img/hand.gif" /> 
+### Hi there, I'm Aswin <img width="20px" src="/img/hand.gif" /> 
 
 
 - 🌱 I’m currently learning ... Vue.js , Node.js and Rust
