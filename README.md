@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning  JavaScript , vue.js
 - 🤔 I’m looking for help with  Vue.js
 - 💬 Ask me about  Anything
-- 😄 Pronouns other😄
+- 😄 Pronouns He/him
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
