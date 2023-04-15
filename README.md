@@ -1,8 +1,8 @@
 ### Hi there, I'm Aswin <img width="20px" src="/img/hand.gif" /> 
 
 
-- 🌱 I’m currently learning  JavaScript 
-- 🤔 I’m looking for help with  JavaScript 
+- 🌱 I’m currently learning  TypeScript 
+- 🤔 I’m looking for help with  TypeScript 
 - 💬 Ask me about  Anything
 - 😄 Pronouns He/him
 <!--
