@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ....
 ![snake gif](https://github.com/aswinr19/aswinr19/blob/output/github-contribution-grid-snake.svg)
 
---> -->
+--> 
 ### [Connect with me 💬](https://aswinr19.github.io/portfolio/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aswinr19.aswinr19)
 
